@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/mass-spec-site/static/js/main.5dab1662.js",
+    "index.html": "/mass-spec-site/index.html",
+    "main.5dab1662.js.map": "/mass-spec-site/static/js/main.5dab1662.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5dab1662.js"
+  ]
+}
